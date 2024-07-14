@@ -27,21 +27,17 @@ I'm Tarun Bardawa, a mobile application professional with 7+ years of experience
 ![Swift](https://img.shields.io/badge/-Swift%20UI-05122A?style=flat&logo=swiftui)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-[![Tarun Bardawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunBardawa&show_icons=true&theme=radical)](https://github.com/TarunBardawa)
+[![Tarun Bardawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunBardawa&show_icons=true&theme=radical)](https://github.com/TarunBardawa) -->
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me:
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tarun-bardawa-21755447)
+- LinkedIn: [Tarun Bardawa](https://www.linkedin.com/in/tarun-bardawa-21755447)
 - Email: [tarunbardawa3@gmail.com](mailto:tarunbardawa3@gmail.com)
 
-## 🔗 Links
+<!-- ## 🔗 Links -->
 
 <!-- - [Portfolio](https://yourportfolio.com) -->
 <!-- - [Resume](https://yourresume.com) -->
