@@ -24,8 +24,12 @@ I'm Tarun Bardawa, a mobile application professional with 7+ years of experience
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
-![Swift](https://img.shields.io/badge/-Swift%20UI-05122A?style=flat&logo=swiftui)
+![SwiftUI](https://img.shields.io/badge/-Swift%20UI-05122A?style=flat&logo=swiftui)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)
+![xcode](https://img.shields.io/badge/-xcode-05122A?style=flat&logo=xcode)
+
 
 <!-- ## 📈 GitHub Stats
 
@@ -42,5 +46,4 @@ I'm Tarun Bardawa, a mobile application professional with 7+ years of experience
 <!-- - [Portfolio](https://yourportfolio.com) -->
 <!-- - [Resume](https://yourresume.com) -->
 
-<!--![Profile views](https://gpvc.arturio.dev/TarunBardawa) -->
 [![](https://visitcount.itsvg.in/api?id=TarunBardawa&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
