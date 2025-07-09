@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-I'm Tarun Bardawa, a mobile application professional with 7+ years of experience in React Native, Redux, JavaScript, TypeScript, Swift, SwiftUI and Flutter.
+I'm Tarun Bardawa, a mobile application professional with 8+ years of experience in React Native, Redux, JavaScript, TypeScript, Swift, SwiftUI and Flutter.
 
 ## 🛠️ Technologies & Tools
 
